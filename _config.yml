@@ -2,4 +2,5 @@ title: Christopher L. Jeffries
 description: Showcase my skills to my future employer
 show_downloads: true
 google_analytics:
-theme: Resume and CyberSecurity Projects
+theme: jekyll-theme-hacker
+
