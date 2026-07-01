@@ -1,5 +1,5 @@
 ---
-layout: Christopher L. Jeffries Resume and Cybersecurity Projects 
+layout: default
  
 ---
 
