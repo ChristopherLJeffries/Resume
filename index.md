@@ -99,7 +99,7 @@ end
 
 ### Large image
 
-![Branching]GT9A9294.jpg
+![Branching](GT9A9294.jpg)
 
 ### Definition lists can be used with HTML syntax.
 
