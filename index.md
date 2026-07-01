@@ -105,13 +105,13 @@ end
 
 <dl>
 <dt>Name</dt>
-<dd>Godzilla</dd>
+<dd>Christopher L. Jeffries</dd>
 <dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
+<dd>1986</dd>
+<dt>Hometown</dt>
+<dd>Saint Paul, MN</dd>
+<dt>Current Location</dt>
+<dd>Glen Burnie, MD</dd>
 </dl>
 
 ```
