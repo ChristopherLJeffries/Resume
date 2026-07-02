@@ -2,6 +2,13 @@
 layout: default
 ---
 
+<style>
+  body {
+    margin: 0;
+    padding: 0;
+    font-family: system-ui, sans-serif;
+    background: linear-gradient(135deg, #dfe3ee 0%, #bfc7d9 100%);
+  }
 
   .profile-pic {
     width: 260px;
