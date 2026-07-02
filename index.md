@@ -56,8 +56,6 @@ Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
 <dd>Glen Burnie, MD</dd>
 
-
-
 # PROFESSIONAL SUMMARY
 
 Tenacious Enterprise Account Executive with 6+ years of quota-carrying sales experience spanning cloud infrastructure, cybersecurity, SaaS, and public-sector technology markets. Proven hunter who opens greenfield SLED and enterprise accounts through disciplined cold outbound, executive networking, and channel co-selling with MSPs, VARs, and AWS channel partners. Deep technical fluency across AWS, Azure, GCP, zero-trust security, and cloud modernization enables C-suite and IT leadership engagement that accelerates complex deal cycles. Trusted partner to procurement, IT directors, and agency leadership - driven by pipeline creation, new-logo acquisition, and the relentless pursuit of new business.
