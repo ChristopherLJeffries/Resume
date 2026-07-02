@@ -8,7 +8,7 @@ Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 [Link to another page](./another-page.html).
 
 <dl>
-<dt>Name</dt>
+<dt>Name</dt>                                                              ![Branching](GT9A9294.jpg)
 <dd>Christopher L. Jeffries</dd>
 <dt>Born</dt>
 <dd>1986</dd>
