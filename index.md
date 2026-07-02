@@ -66,21 +66,8 @@ Baltimore/Washington International Airport
 
 ### CERTIFICATIONS
 > AWS Certified Cloud Practitioner (CLF-C01)	Amazon Web Services
-> Software Development Engineer in Test (SDET)	Infotek Solutions
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+> Software Development Engineer in Test (SDET)	Infotek Solutions
 
 #### Bachelor of Science, Business Administration	University of Northwestern, St. Paul
 
