@@ -86,9 +86,9 @@ Baltimore/Washington International Airport
 -	Negotiated and managed multi-year fleet contracts with corporate and institutional clients, coordinating telematics, operational technology, and service logistics across accounts.
 -	Trained and coached sales staff on consultative selling techniques, system usage, and customer escalation protocols - consistently ranking among top locations in regional revenue.
 
-> This is a blockquote following a header.
+> 
 >
-> When something is important enough, you do it even if the odds are not in your favor.
+> 
 
 ### CERTIFICATIONS
 > AWS Certified Cloud Practitioner (CLF-C01)	Amazon Web Services
@@ -113,7 +113,7 @@ Baltimore/Washington International Airport
 
 ![Branching](GT9A9294.jpg)
 
-### Definition lists can be used with HTML syntax.
+### 
 
 <dl>
 <dt>Name</dt>                                                            
