@@ -5,7 +5,7 @@ layout: default
 
 Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
-[Link to another page](./another-page.html).
+[Link to another page][(https://www.linkedin.com/in/christopherljeffries/)).
 
   <!DOCTYPE html>
 <html>
@@ -55,6 +55,11 @@ Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 <dt>Current Location</dt>
 
 <dd>Glen Burnie, MD</dd>
+
+<dt>Contact Information</dt>
+
+<dd>christopherljeffries@gmail.com</dd>
+
 
 # PROFESSIONAL SUMMARY
 
