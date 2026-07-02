@@ -5,7 +5,7 @@ layout: default
 
 Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
-[Link to another page][(https://www.linkedin.com/in/christopherljeffries/)).
+(https://www.linkedin.com/in/christopherljeffries/).
 
   <!DOCTYPE html>
 <html>
