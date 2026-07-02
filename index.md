@@ -1,9 +1,12 @@
----
-layout: default
----
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Christopher L. Jeffries</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
 
 <style>
-  body {
+  html, body {
     margin: 0;
     padding: 0;
     font-family: system-ui, sans-serif;
@@ -20,25 +23,13 @@ layout: default
     box-shadow: 0 6px 18px rgba(0,0,0,0.25);
   }
 </style>
+</head>
+<body>
 
 <img src="GT9A8959.jpg" alt="Christopher L. Jeffries" class="profile-pic">
 
-<dl>
-<dt>Name</dt>
-<dd>Christopher L. Jeffries</dd>
-
-<dt>Born</dt>
-<dd>1986</dd>
-
-<dt>Hometown</dt>
-<dd>Saint Paul, MN</dd>
-
-<dt>Current Location</dt>
-<dd>Glen Burnie, MD</dd>
-
-<dt>Contact Information</dt>
-<dd>christopherljeffries@gmail.com</dd>
-</dl>
+</body>
+</html>
 
 # PROFESSIONAL SUMMARY
 
