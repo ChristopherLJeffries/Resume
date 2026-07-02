@@ -7,9 +7,16 @@ Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
 [Link to another page](./another-page.html).
 
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+<dl>
+<dt>Name</dt>
+<dd>Christopher L. Jeffries</dd>
+<dt>Born</dt>
+<dd>1986</dd>
+<dt>Hometown</dt>
+<dd>Saint Paul, MN</dd>
+<dt>Current Location</dt>
+<dd>Glen Burnie, MD</dd>
+</dl>
 
 # PROFESSIONAL SUMMARY
 
@@ -90,7 +97,7 @@ Baltimore/Washington International Airport
 ### Definition lists can be used with HTML syntax.
 
 <dl>
-<dt>Name</dt>
+<dt>Name</dt>                                                            
 <dd>Christopher L. Jeffries</dd>
 <dt>Born</dt>
 <dd>1986</dd>
