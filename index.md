@@ -7,18 +7,39 @@ Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
 [Link to another page](./another-page.html).
 
-   <!-- Mini Profile Photo -->
-<img src="GT9A8959.jpg" 
+  <!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Christopher L. Jeffries</title>
+
+<style>
+  body {
+    margin: 0;
+    padding: 0;
+    font-family: system-ui, sans-serif;
+    background: linear-gradient(135deg, #dfe3ee 0%, #bfc7d9 100%);
+  }
+</style>
+
+</head>
+<body>
+
+<img src="GT9A8959.jpg"
      alt="Christopher L. Jeffries"
      style="
-       width:160px;
-       height:160px;
+       width:260px;
+       height:260px;
        object-fit:cover;
-       border-radius:12px;
+       border-radius:18px;
        display:block;
-       margin:0 auto 20px auto;
-       box-shadow:0 2px 6px rgba(0,0,0,0.15);
+       margin:60px auto 40px auto;
+       box-shadow:0 6px 18px rgba(0,0,0,0.25);
      ">
+
+</body>
+</html>
+
 
   <dt>Name</dt>
 <dd>Christopher L. Jeffries</dd>
