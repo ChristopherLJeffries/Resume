@@ -1,17 +1,6 @@
 ---
 layout: default
- 
 ---
-
-Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
-
-(https://www.linkedin.com/in/christopherljeffries/).
-
-  <!DOCTYPE html>
-<html>
-<head>
-<meta charset="UTF-8">
-<title>Christopher L. Jeffries</title>
 
 <style>
   body {
@@ -20,46 +9,36 @@ Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
     font-family: system-ui, sans-serif;
     background: linear-gradient(135deg, #dfe3ee 0%, #bfc7d9 100%);
   }
+
+  .profile-pic {
+    width: 260px;
+    height: 260px;
+    object-fit: cover;
+    border-radius: 18px;
+    display: block;
+    margin: 60px auto 40px auto;
+    box-shadow: 0 6px 18px rgba(0,0,0,0.25);
+  }
 </style>
 
-</head>
-<body>
+<img src="GT9A8959.jpg" alt="Christopher L. Jeffries" class="profile-pic">
 
-<img src="GT9A8959.jpg"
-     alt="Christopher L. Jeffries"
-     style="
-       width:260px;
-       height:260px;
-       object-fit:cover;
-       border-radius:18px;
-       display:block;
-       margin:60px auto 40px auto;
-       box-shadow:0 6px 18px rgba(0,0,0,0.25);
-     ">
-
-</body>
-</html>
-
-
-  <dt>Name</dt>
+<dl>
+<dt>Name</dt>
 <dd>Christopher L. Jeffries</dd>
 
 <dt>Born</dt>
-
 <dd>1986</dd>
 
 <dt>Hometown</dt>
-
 <dd>Saint Paul, MN</dd>
 
 <dt>Current Location</dt>
-
 <dd>Glen Burnie, MD</dd>
 
 <dt>Contact Information</dt>
-
 <dd>christopherljeffries@gmail.com</dd>
-
+</dl>
 
 # PROFESSIONAL SUMMARY
 
