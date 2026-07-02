@@ -11,8 +11,8 @@ Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 <img src="GT9A8959.jpg" 
      alt="Christopher L. Jeffries"
      style="
-       width:120px;
-       height:120px;
+       width:160px;
+       height:160px;
        object-fit:cover;
        border-radius:12px;
        display:block;
@@ -127,9 +127,9 @@ Baltimore/Washington International Airport
 </dl>
 
 ```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
+
 ```
 
 ```
-The final element.
+
 ```
