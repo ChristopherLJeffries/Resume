@@ -8,7 +8,17 @@ Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 [Link to another page](./another-page.html).
 
    <!-- Mini Profile Photo -->
-  <img src="GT9A8959.jpg" alt="Christopher L. Jeffries" class="profile-pic">
+<img src="GT9A8959.jpg" 
+     alt="Christopher L. Jeffries"
+     style="
+       width:120px;
+       height:120px;
+       object-fit:cover;
+       border-radius:12px;
+       display:block;
+       margin:0 auto 20px auto;
+       box-shadow:0 2px 6px rgba(0,0,0,0.15);
+     ">
 
   <dt>Name</dt>
 <dd>Christopher L. Jeffries</dd>
