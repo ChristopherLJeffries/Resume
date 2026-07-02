@@ -7,16 +7,93 @@ Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
 [Link to another page](./another-page.html).
 
-<dl>
-<dt>Name</dt>                                                              ![Branching](GT9A9294.jpg)
-<dd>Christopher L. Jeffries</dd>
-<dt>Born</dt>
-<dd>1986</dd>
-<dt>Hometown</dt>
-<dd>Saint Paul, MN</dd>
-<dt>Current Location</dt>
-<dd>Glen Burnie, MD</dd>
-</dl>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Christopher L. Jeffries – Profile</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<style>
+  body {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+    background: #f5f5f7;
+    color: #222;
+    margin: 0;
+    padding: 40px 20px;
+    line-height: 1.6;
+  }
+
+  .container {
+    max-width: 700px;
+    margin: auto;
+    background: #fff;
+    padding: 30px;
+    border-radius: 12px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+  }
+
+  h1 {
+    text-align: center;
+    margin-bottom: 20px;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+  }
+
+  .profile-pic {
+    display: block;
+    width: 140px;
+    height: 140px;
+    object-fit: cover;
+    border-radius: 12px;
+    margin: 0 auto 25px auto;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.15);
+  }
+
+  dl {
+    margin-top: 20px;
+    font-size: 1rem;
+  }
+
+  dt {
+    font-weight: 600;
+    margin-top: 12px;
+  }
+
+  dd {
+    margin-left: 0;
+    margin-bottom: 8px;
+  }
+</style>
+</head>
+
+<body>
+<div class="container">
+
+  <h1>Profile</h1>
+
+  <!-- Mini Profile Photo -->
+  <img src="GT9A8959.jpg" alt="Christopher L. Jeffries" class="profile-pic">
+
+  <!-- Definition List -->
+  <dl>
+    <dt>Name</dt>
+    <dd>Christopher L. Jeffries</dd>
+
+    <dt>Born</dt>
+    <dd>1986</dd>
+
+    <dt>Hometown</dt>
+    <dd>Saint Paul, MN</dd>
+
+    <dt>Current Location</dt>
+    <dd>Glen Burnie, MD</dd>
+  </dl>
+
+</div>
+</body>
+</html>
+
 
 # PROFESSIONAL SUMMARY
 
