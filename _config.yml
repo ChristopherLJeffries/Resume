@@ -1,7 +1,8 @@
-title: Christopher L. Jeffries  
+title: Christopher L. Jeffries
 description: Showcase my skills to my future employer
 show_downloads: true
 google_analytics:
-theme: jekyll-theme-hacker
+# IMPORTANT: Remove or comment out the theme below
+# theme: jekyll-theme-hacker
 
 
