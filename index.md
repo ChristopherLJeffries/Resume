@@ -33,18 +33,35 @@
     box-shadow: 0 6px 18px rgba(0,0,0,0.25);
   }
 
-  h1, h2, h3, h4 {
+  h1, h2, h3 {
     margin-top: 40px;
   }
 
   ul {
     margin-left: 20px;
   }
+
+  .contact {
+    text-align: center;
+    margin-top: 20px;
+    font-size: 18px;
+  }
+
+  .contact a {
+    color: #003366;
+    font-weight: bold;
+    text-decoration: none;
+  }
 </style>
 </head>
 <body>
 
 <img src="GT9A8959.jpg" alt="Christopher L. Jeffries" class="profile-pic">
+
+<div class="contact">
+  <p>Email: <a href="mailto:christopherljeffries@gmail.com">christopherljeffries@gmail.com</a></p>
+  <p>LinkedIn: <a href="https://www.linkedin.com/in/christopherljeffries" target="_blank">linkedin.com/in/christopherljeffries</a></p>
+</div>
 
 <div class="container">
 
